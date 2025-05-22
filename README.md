@@ -1,2 +1,2 @@
 # Art_In_Motion
-A creative repository for my animation projects - characters, objects, maps and motion experiments made with Blender and Krita. This is where my static art comes to life.
+Personal animation space featuring 2D and 3D assets created in Blender and Krita. Includes models, scenes, characters and short animated sequences.
